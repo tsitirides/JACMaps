@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JACMaps</string>
+    <string name="title_activity_main">JAC Maps</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recent_trips">Recent Trips</string>
+    <string name="title_activity_display_path">Trip Directions</string>
+</resources>
